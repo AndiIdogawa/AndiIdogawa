@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AndiIdogawa
+- 👀 I’m interested in reducing work for others using code.
+- 🌱 I’m currently learning Svelte
+- 📫 How to reach me: andi@idogawa.dev
